@@ -17,7 +17,7 @@ notes_freq = {
 
 # Define the GUI window
 root = tk.Tk()
-root.title("Piano But in Python")
+root.title("Piano But on Python")
 
 # Define the piano keys
 piano_keys = []
