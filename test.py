@@ -46,5 +46,5 @@ piano_keys[5].configure(command=lambda: play_note("A4"))
 piano_keys[6].configure(command=lambda: play_note("B4"))
 piano_keys[7].configure(command=lambda: play_note("C5"))
 
-# Run the GUI loop
+
 root.mainloop()
